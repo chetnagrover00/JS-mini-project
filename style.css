@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(66, 66, 66);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+
+}
+
+.btn{
+	padding: 10px;
+	margin: 10px;
+}
+
+.Dsort-btn{
+	float: right;
+}
+
+.Asort-btn{
+	float: left;
+}
+h1{
+	
+	letter-spacing: 3px;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: black;
+  -webkit-text-fill-color: transparent;
+}
